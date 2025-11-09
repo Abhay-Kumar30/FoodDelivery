@@ -28,8 +28,6 @@ FoodDelivery website fully *secure*, *responsive* and *userfriendly*.
 
 ![Image 7](https://github.com/user-attachments/assets/3fd0ae9f-f55c-4304-874b-ce253801628f)
 
-![Image 9](https://github.com/user-attachments/assets/3f2a3d9c-c033-424c-8f18-75612418201b)
-
 ![Image 10](https://github.com/user-attachments/assets/f9e4224f-40cf-45e2-93c6-265e19b7f852)
 
 ![Image 11](https://github.com/user-attachments/assets/2514dfb5-34c9-4aa0-96bd-3aa1bead7aa5)
