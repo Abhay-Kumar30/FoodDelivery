@@ -5,11 +5,12 @@ FoodDelivery website fully *secure*, *responsive* and *userfriendly*.
 **Tech-Used:-** React, Node.js, Express.js, MongoDB Atlas, HTML, CSS, Javascript, Git-Github.
 
 ## Features:-
-1) Utilized Axios for efficient and secure API data handling and asynchronous requests.
-2) Implemented powerful search functionality to explore specific movies and TV shows in real time.
-3) Integrated lazy loading and infinite scrolling for smooth and optimized content browsing.
-4) Enabled live trailer playback using embedded video previews directly from TMDB.
-5) Built dynamic filters with a fully responsive UI for seamless discovery across all devices.
+1) Developed a full-stack food delivery web app where users can sign up/sign in with JWT authentication, and passwords are securely hashed using bcrypt.
+2) Enabled users to filter food items, add them to the cart, make secure payments via Stripe, and track order status in real time.
+3) Built an Admin Dashboard to create, read, and delete food items with images, and update the status of customer orders.
+4) Used React Hooks and Toastify for smooth state management and interactive notifications.
+5) Tested REST APIs using Postman to ensure backend performance and reliability.
+6) Designed a fully responsive UI for a seamless experience across all devices.
 
 
 ## ScreenShort
