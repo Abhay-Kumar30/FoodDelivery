@@ -8,7 +8,6 @@ const PlaceOrder = () => {
 
   const {getTotalCartAmount,token,food_list,cartItems,url} = useContext(StoreContext);
 
-
   const [data,setData] = useState({
     firstName:"",
     lastName:"",
@@ -123,3 +122,4 @@ useEffect(()=>{
 }
 
 export default PlaceOrder
+
