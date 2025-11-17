@@ -6,6 +6,7 @@ import {toast} from "react-toastify"
 import { useEffect } from 'react';
 import {assets} from "../../assets/assets"
 
+
 const Orders = ({url}) => {
 
   const [orders,setOrders] = useState([]);
@@ -75,3 +76,4 @@ toast.error("Error");
 }
 
 export default Orders
+
