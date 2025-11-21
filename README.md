@@ -1,6 +1,6 @@
 # FoodDelivery
 
-FoodDelivery website fully *secure*, *responsive* and *userfriendly*.
+FoodDelivery website fully *secure*, *responsive* and *userfriendly*
 
 **Tech-Used:-** React, Node.js, Express.js, MongoDB Atlas, HTML, CSS, Javascript, Git-Github.
 
