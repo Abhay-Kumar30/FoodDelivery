@@ -4,7 +4,7 @@ FoodDelivery website fully *secure*, *responsive* and *userfriendly*
 
 **Tech-Used:-** React, Node.js, Express.js, MongoDB Atlas, HTML, CSS, Javascript, Git-Github.
 
-## Features:-
+## Features:
 1) Build a full-stack responsive web application for browsing, ordering, and managing food items online.
 2) Users can sign up/sign in using JWT authentication with bcrypt-secured passwords.
 3) Users can filter food items, add to cart, make payments via Stripe, and track orders.
